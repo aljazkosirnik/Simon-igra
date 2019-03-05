@@ -1,3 +1,5 @@
-# Simon-igra
-Igra iz ˙80ih kjer ponoviš zaporedje barv po računalniku.
-igraj tukaj: https://aljazkosirnik.github.io/Simon-igra/
+# Simon
+Simon was an electronic memory game released by Milton Bradley in 1978 that became an instant hit worldwide.
+Play here: https://aljazkosirnik.si/simon/
+
+* Built with JQuery
